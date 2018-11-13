@@ -3,6 +3,6 @@
     "test": "node test.js"
   },
   "devDependencies": {
-    "proxyquire": "~1.7.3"
+    "proxyquire": "~2.1.0"
   }
 }
